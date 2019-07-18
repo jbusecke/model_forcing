@@ -1,0 +1,6 @@
+*.nc*
+
+input_files
+archive
+JRA55-do-1-3/v20180412/padded_dataset/*
+
