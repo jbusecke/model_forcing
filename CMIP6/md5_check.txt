@@ -1,0 +1,14 @@
+0ee9f3b3af7b98364e28bf30b37391a3  ./datasets/iron_sources/Mineral_Flux_AM4.nc
+6242f0903b9d7cc6cd9d40b3d412689d  ./datasets/iron_sources/Soluble_Fe_Flux_AM4.nc
+c13c58c40244eacc16b7edb121dec139  ./datasets/iron_sources/river_iron_halfdeg.nc
+2d2b17f7b7cd9df51d3f9399b756f6e0  ./datasets/TOPAZ/deposition_horowitz/depflux_total.mean.1860.nc
+d52c7823f222af983d085d38f91603df  ./datasets/TOPAZ/deposition_fan/Soluble_Fe_Flux_PI.nc
+bcb77dc56db84df8ab26e37ae7e7712f  ./datasets/TOPAZ/deposition_fan/Mineral_Fe_Flux_PI.nc
+fd1fb32fb57630839536eff72d446969  ./datasets/ALT_TOPAZ/TOPAZ/deposition_fan/Soluble_Fe_Flux.nc
+bcb77dc56db84df8ab26e37ae7e7712f  ./datasets/ALT_TOPAZ/TOPAZ/deposition_fan/Mineral_Fe_Flux_PI.nc
+d52c7823f222af983d085d38f91603df  ./datasets/ALT_TOPAZ/TOPAZ/deposition_fan/Soluble_Fe_Flux_PI.nc
+535d44cbb1d325a19c0c65088915c9ed  ./datasets/ALT_TOPAZ/TOPAZ/deposition_fan/Mineral_Fe_Flux.nc
+38af30e299d6809e73427ded775c715d  ./datasets/ALT_TOPAZ/TOPAZ/JPD_20090912/news_nitrogen_conc_gold.nc
+cbd8e19686f84b2298346360104536da  ./datasets/ALT_TOPAZ/TOPAZ/JPD_20090912/news_nitrogen_conc_mom.nc
+2d2b17f7b7cd9df51d3f9399b756f6e0  ./datasets/ALT_TOPAZ/TOPAZ/deposition_horowitz/depflux_total.mean.1860.nc
+debd9e4fd9fde36f5c6ec622969e47ac  ./datasets/ALT_TOPAZ/TOPAZ/deposition_horowitz/depflux_total.mean.1990.nc
